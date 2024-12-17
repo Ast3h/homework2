@@ -1,2 +1,2 @@
-ip addr add 130.63.144.1/20 dev eth0
-ip route add default via 130.63.144.2 dev eth3
+ip addr add 130.63.144.2/20 dev eth0
+ip route add default via 130.63.144.1 dev eth3

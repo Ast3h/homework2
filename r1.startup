@@ -1,5 +1,0 @@
-ip addr add 130.63.255.204 dev eth3
-ip addr add 130.63.255.252 dev eth0
-ip addr add 130.63.255.212 dev eth1
-ip addr add 130.63.255.216 dev eth2
-ip addr add 130.63.255.208 dev eth4

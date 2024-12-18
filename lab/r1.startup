@@ -21,4 +21,4 @@ ip route add 130.63.32.0/19 via 130.63.255.214 dev eth2
 
 ip route add 130.63.144.0/20 via 130.63.255.218 dev eth3
 ip route add 130.63.0.0/19 via 130.63.255.218 dev eth3
-ip route add 130.63.168.0/20 via 130.63.255.218 dev eth3
+ip route add 130.63.160.0/20 via 130.63.255.218 dev eth3
